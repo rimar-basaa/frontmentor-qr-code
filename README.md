@@ -1,47 +1,30 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - QR code component solucion
 
 Esta es una solucion para [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 ## Tabla de contenido
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [Captura pantalla](#captura-pantalla)
+- [Mi proceso](#mi-proceso)
+ - [Construido con](#construido-con)  
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
-### Screenshot
+### Captura pantalla
 
 ![](./images/screenshot-qrcode.jpg)
 
 
-## My process
+## Mi proceso
 
-### Built with
+### Construido con
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- HTML5 marcado semantico
+- CSS para estilos
+- Flexbox para disposicion de cajas
 
 
-## Author
+## Autor
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@rimar-basaa](https://www.frontendmentor.io/profile/rimar-basaa)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
