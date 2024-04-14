@@ -7,7 +7,7 @@ Esta es una solucion para [QR code component challenge on Frontend Mentor](https
 - [Captura pantalla](#captura-pantalla)
 - [Mi proceso](#mi-proceso)
  - [Construido con](#construido-con)  
-- [Author](#author)
+- [Autor](#autor)
 
 ### Captura pantalla
 
